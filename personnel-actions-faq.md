@@ -3,6 +3,8 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 > This topic contains answers to questions that you might have if your organization uses personnel actions. Personnel actions are additional steps that you must complete when you perform certain personnel-related tasks. Examples of tasks that might require personnel actions are when you create new positions, modify existing position values, hire new workers, transfer workers, change worker compensation, change position assignments, or terminate workers. 
+
+![Another illustration](media/5030325.jpg)
 > 
 > >**Note**
 > >Personnel actions are available only if Dynamics 365 for Talent is installed and the Personnel actions configuration key is selected. 
