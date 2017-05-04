@@ -10,6 +10,7 @@
 ##How can I tell if my organization requires personnel actions?
 Personnel actions are required by your organization if you are asked to select a personnel action when you create new positions, change existing positions, hire new workers, transfer workers, change worker compensation, change position assignments, terminate workers, or enter leave for workers. 
 
+![5020242-2.jpg](Ella goes to work)
 
 ## What is the difference between a position action and a worker action?
 
